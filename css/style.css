@@ -1,0 +1,12 @@
+BODY {
+	background: cyan;
+	color: darkblue;
+}
+
+a {
+	color: black;
+}
+
+a:link {
+    text-decoration: none;
+}
