@@ -1,12 +1,20 @@
-BODY {
-	background: cyan;
-	color: darkblue;
-}
-
 a {
 	color: black;
 }
 
 a:link {
     text-decoration: none;
+}
+
+p {
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+h1,h2,h3,h4,h5 {
+    padding-left: 25px;
+}
+
+h1.ori {
+    padding-left: 0px
 }
